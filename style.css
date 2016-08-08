@@ -67,10 +67,15 @@ input {
     text-align: center;
     font-size: 2rem;
     color: white;
+    padding: .5rem;
 }
 
 .videos h2 {
     background-color: grey;
+    opacity: .7;
+    font-size: 0.6em;
+    max-height: 3rem;
+    height: 3rem;
 }
 
 .videoContainer {
